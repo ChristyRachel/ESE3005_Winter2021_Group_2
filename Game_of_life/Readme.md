@@ -1,4 +1,6 @@
 ![Gameoflife](https://user-images.githubusercontent.com/40349694/111917426-58688f00-8a56-11eb-85b8-bd2a19b3273f.gif)
+
+
 This is a game called Game of life, which is a zero-player game designed by John Conway.
 
 Rules for Game of Life:
