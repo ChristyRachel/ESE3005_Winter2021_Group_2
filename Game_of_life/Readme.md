@@ -1,4 +1,4 @@
-This Repository consist of a game called Game of life, which is a zero-player game designed by John Conway.
+This is a game called Game of life, which is a zero-player game designed by John Conway.
 
 This game includes these rules:
 1. if a cell is dead but surrounded by exactly three live neighbours, it sprouts to life (birth)
